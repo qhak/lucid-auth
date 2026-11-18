@@ -1,0 +1,5 @@
+# Optional outside explicit local mail mode
+# MAIL_API_KEY=
+# MAIL_FROM=Lucid Auth <auth@example.com>
+# GOOGLE_CLIENT_ID=
+# GOOGLE_CLIENT_SECRET=
